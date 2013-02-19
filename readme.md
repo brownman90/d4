@@ -7,9 +7,9 @@ DataLift, DataCube, D3.
 
 ## tl;dr ##
 
-D4 is a DataLift module to visualize RDF DataCube data.
-D4 is made with Twitter Bootstrap, D3.js and CoffeeScript.
-D4 is currently an alpha product under active development.
+- D4 is a DataLift module to visualize RDF DataCube data.
+- D4 is made with Twitter Bootstrap, D3.js and CoffeeScript.
+- D4 is a prototype of a future Datalift module.
 
 ## Functionalities ##
 
